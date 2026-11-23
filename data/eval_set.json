@@ -1,0 +1,8 @@
+[
+ {"q": "How do solar panels make electricity?", "doc": "solar_panels_en.txt"},
+ {"q": "Why does dust reduce solar output?", "doc": "solar_panels_en.txt"},
+ {"q": "What is in a vaccine?", "doc": "vaccines_en.txt"},
+ {"q": "Why are booster doses needed?", "doc": "vaccines_en.txt"},
+ {"q": "ما هو طول نهر النيل؟", "doc": "nile_ar.txt"},
+ {"q": "لماذا بني السد العالي؟", "doc": "nile_ar.txt"}
+]
