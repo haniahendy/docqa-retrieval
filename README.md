@@ -24,4 +24,4 @@ Put your own `.txt` files in `data/` to index them.
 - Add reranking and answer generation with citations.
 
 ## Provenance
-Built with AI assistance as a learning and portfolio project. Documents in `data/` were written for this repo.
+A learning and portfolio project. Documents in `data/` were written for this repo.
